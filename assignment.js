@@ -10,7 +10,7 @@
 // 2.App.test.js this is a file for testing the app components
 // App.css this file holds the CSS styles specifically for your App.js component
 // index.css this is a global css file hold the the styles for your whole app
-// index.js this is the entry point of your app It’s what actually runs React and renders your app inside the public/index.html root div.
+// index.js this is the entry component of your app It’s what actually runs React and renders your app inside the public/index.html root div.
 // logo.svg this is the default react logo
 // reportWebVitals.js it is used to measure the apps performance
 // setupTests.js it is used for testing setup with a jest

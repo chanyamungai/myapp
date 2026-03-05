@@ -2,8 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 import Firstcomponent from './components/Firstcomponet';
 import Secondcomponent from './components/Secondcomponent';
+import Contactcomponent from './components/Contactcomponent';
+import Helpcomponent from './components/Helpcomponent';
 import Thirdcomponent from './components/Thirdcomponent';
 import Fourthcomponent from './components/Fourthcomponent';
+import Fifthcomponent from './components/Fifthcomponent';
 
 function App() {
   return (
@@ -16,8 +19,12 @@ function App() {
       {/*Below we render/display/show our componenets*/}
       <Firstcomponent/>
       <Secondcomponent/>
+      <Contactcomponent/>
+      <Helpcomponent/>
       <Thirdcomponent/>
       <Fourthcomponent/>
+      <Fifthcomponent/>
+      
     </div>
   );
 }

@@ -41,12 +41,20 @@
   background-color: rgb(235, 149, 166);
 }
 
-.Thirdcomponent{
+.Contactcomponent{
   text-align: center;
   background-color: antiquewhite;
 }
 
-.Fourthcomponent{
+.Helpcomponent{
   background-color: rgb(235, 141, 227);
   text-align: center;
+}
+
+.Thirdcomponent{
+  background-color: bisque;
+}
+
+.Fourthcomponent{
+  background-color: brown;
 }

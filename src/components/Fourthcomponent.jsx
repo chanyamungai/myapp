@@ -1,11 +1,14 @@
-const Fourthcomponent = () =>{
+const Fourthcomponent =() =>{
+
+    let weight=56
+    let height=176
     return(
-        <div class="Fourthcomponent">
-            <h1>Help</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio necessitatibus amet dicta. Error exercitationem ea sed deserunt voluptates fugit velit cumque, porro asperiores? Repellat commodi maiores amet aliquid cumque impedit.</p>
+        <div className="Fourthcomponent">
+            <h4>Her weight is{weight}</h4>
+            <h4>Her height is {height}</h4>
 
         </div>
-    );
+    )
 }
 
-export default Fourthcomponent;
+export default Fourthcomponent
